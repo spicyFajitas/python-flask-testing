@@ -1,4 +1,4 @@
-From python:3.12
+From python:3.15
 
 WORKDIR /
 COPY . .
